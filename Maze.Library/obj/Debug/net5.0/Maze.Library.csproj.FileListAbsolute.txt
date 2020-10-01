@@ -1,0 +1,12 @@
+D:\SCHOOL\PROO\HW\robot-maze-quiz-Samuel-Kowatschek\Maze.Library\bin\Debug\net5.0\Maze.Library.deps.json
+D:\SCHOOL\PROO\HW\robot-maze-quiz-Samuel-Kowatschek\Maze.Library\bin\Debug\net5.0\Maze.Library.dll
+D:\SCHOOL\PROO\HW\robot-maze-quiz-Samuel-Kowatschek\Maze.Library\bin\Debug\net5.0\ref\Maze.Library.dll
+D:\SCHOOL\PROO\HW\robot-maze-quiz-Samuel-Kowatschek\Maze.Library\bin\Debug\net5.0\Maze.Library.pdb
+D:\SCHOOL\PROO\HW\robot-maze-quiz-Samuel-Kowatschek\Maze.Library\obj\Debug\net5.0\Maze.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCHOOL\PROO\HW\robot-maze-quiz-Samuel-Kowatschek\Maze.Library\obj\Debug\net5.0\Maze.Library.AssemblyInfoInputs.cache
+D:\SCHOOL\PROO\HW\robot-maze-quiz-Samuel-Kowatschek\Maze.Library\obj\Debug\net5.0\Maze.Library.AssemblyInfo.cs
+D:\SCHOOL\PROO\HW\robot-maze-quiz-Samuel-Kowatschek\Maze.Library\obj\Debug\net5.0\Maze.Library.csproj.CoreCompileInputs.cache
+D:\SCHOOL\PROO\HW\robot-maze-quiz-Samuel-Kowatschek\Maze.Library\obj\Debug\net5.0\Maze.Library.dll
+D:\SCHOOL\PROO\HW\robot-maze-quiz-Samuel-Kowatschek\Maze.Library\obj\Debug\net5.0\ref\Maze.Library.dll
+D:\SCHOOL\PROO\HW\robot-maze-quiz-Samuel-Kowatschek\Maze.Library\obj\Debug\net5.0\Maze.Library.pdb
+D:\SCHOOL\PROO\HW\robot-maze-quiz-Samuel-Kowatschek\Maze.Library\obj\Debug\net5.0\Maze.Library.csprojAssemblyReference.cache
